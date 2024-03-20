@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "ServerLocale": "ACADEMY2024-02\\SQLEXPRESS;Database=GestioneLibri;User Id=academy;Password=academy!;MultipleActiveResultSets=true;Encrypt=false;TrustServerCertificate=false",
+    "ServerRemoto": ""
+  }
+}

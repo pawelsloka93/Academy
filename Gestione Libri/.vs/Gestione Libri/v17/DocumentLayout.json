@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\utilites\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\utilites\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\gestione libri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\gestione libri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\dal\\libridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\dal\\libridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\dal\\utentidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\dal\\utentidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\models\\utenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\models\\utenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\models\\prestiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\models\\prestiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|c:\\users\\utente\\desktop\\academy\\c#\\gestione libri\\gestione libri\\dal\\prestitidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560189D2-0D47-4095-9B69-F04B8F7C008C}|Gestione Libri\\Gestione Libri.csproj|solutionrelative:gestione libri\\dal\\prestitidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gestione Libri",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Gestione Libri.csproj",
+              "RelativeDocumentMoniker": "Gestione Libri\\Gestione Libri.csproj",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Gestione Libri.csproj",
+              "RelativeToolTip": "Gestione Libri\\Gestione Libri.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T16:12:47.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appSetting.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\appSetting.json",
+              "RelativeDocumentMoniker": "Gestione Libri\\appSetting.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\appSetting.json",
+              "RelativeToolTip": "Gestione Libri\\appSetting.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T16:13:06.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Utilites\\Config.cs",
+              "RelativeDocumentMoniker": "Gestione Libri\\Utilites\\Config.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Utilites\\Config.cs",
+              "RelativeToolTip": "Gestione Libri\\Utilites\\Config.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:11:31.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Idal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\DAL\\Idal.cs",
+              "RelativeDocumentMoniker": "Gestione Libri\\DAL\\Idal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\DAL\\Idal.cs",
+              "RelativeToolTip": "Gestione Libri\\DAL\\Idal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:37:11.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrestitiDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\DAL\\PrestitiDal.cs",
+              "RelativeDocumentMoniker": "Gestione Libri\\DAL\\PrestitiDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\DAL\\PrestitiDal.cs",
+              "RelativeToolTip": "Gestione Libri\\DAL\\PrestitiDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:33:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UtentiDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\DAL\\UtentiDal.cs",
+              "RelativeDocumentMoniker": "Gestione Libri\\DAL\\UtentiDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\DAL\\UtentiDal.cs",
+              "RelativeToolTip": "Gestione Libri\\DAL\\UtentiDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:33:19.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibriDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\DAL\\LibriDal.cs",
+              "RelativeDocumentMoniker": "Gestione Libri\\DAL\\LibriDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\DAL\\LibriDal.cs",
+              "RelativeToolTip": "Gestione Libri\\DAL\\LibriDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:33:02.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prestiti.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Models\\Prestiti.cs",
+              "RelativeDocumentMoniker": "Gestione Libri\\Models\\Prestiti.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Models\\Prestiti.cs",
+              "RelativeToolTip": "Gestione Libri\\Models\\Prestiti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:25:14.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libri.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Models\\Libri.cs",
+              "RelativeDocumentMoniker": "Gestione Libri\\Models\\Libri.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Models\\Libri.cs",
+              "RelativeToolTip": "Gestione Libri\\Models\\Libri.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:24:50.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utenti.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Models\\Utenti.cs",
+              "RelativeDocumentMoniker": "Gestione Libri\\Models\\Utenti.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Gestione Libri\\Gestione Libri\\Models\\Utenti.cs",
+              "RelativeToolTip": "Gestione Libri\\Models\\Utenti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:24:28.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
