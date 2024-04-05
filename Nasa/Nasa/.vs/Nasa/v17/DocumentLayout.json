@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\repos\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\repos\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\repos\\corpocelesterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\repos\\corpocelesterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\models\\corpoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\models\\corpoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\models\\nasadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\models\\nasadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\models\\corpoceleste_sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\models\\corpoceleste_sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|c:\\users\\utente\\desktop\\academy\\c#\\nasa\\nasa\\nasa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B4E1538-CDBD-483D-9D21-C252A915472F}|Nasa\\Nasa.csproj|solutionrelative:nasa\\nasa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CorpoCeleste_Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Models\\CorpoCeleste_Sistema.cs",
+              "RelativeDocumentMoniker": "Nasa\\Models\\CorpoCeleste_Sistema.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Models\\CorpoCeleste_Sistema.cs",
+              "RelativeToolTip": "Nasa\\Models\\CorpoCeleste_Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:13:05.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\appsettings.json",
+              "RelativeDocumentMoniker": "Nasa\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\appsettings.json",
+              "RelativeToolTip": "Nasa\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T14:59:14.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Repos\\SistemaRepo.cs",
+              "RelativeDocumentMoniker": "Nasa\\Repos\\SistemaRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Repos\\SistemaRepo.cs",
+              "RelativeToolTip": "Nasa\\Repos\\SistemaRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:46:11.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorpoCelesteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Repos\\CorpoCelesteRepo.cs",
+              "RelativeDocumentMoniker": "Nasa\\Repos\\CorpoCelesteRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Repos\\CorpoCelesteRepo.cs",
+              "RelativeToolTip": "Nasa\\Repos\\CorpoCelesteRepo.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwE8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:45:37.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "Nasa\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Repos\\IRepo.cs",
+              "RelativeToolTip": "Nasa\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:51:46.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nasa",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Nasa.csproj",
+              "RelativeDocumentMoniker": "Nasa\\Nasa.csproj",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Nasa.csproj",
+              "RelativeToolTip": "Nasa\\Nasa.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T13:40:54.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NasaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Models\\NasaDbContext.cs",
+              "RelativeDocumentMoniker": "Nasa\\Models\\NasaDbContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Models\\NasaDbContext.cs",
+              "RelativeToolTip": "Nasa\\Models\\NasaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:48:29.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Models\\Sistema.cs",
+              "RelativeDocumentMoniker": "Nasa\\Models\\Sistema.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Models\\Sistema.cs",
+              "RelativeToolTip": "Nasa\\Models\\Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:02:23.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CorpoCeleste.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Models\\CorpoCeleste.cs",
+              "RelativeDocumentMoniker": "Nasa\\Models\\CorpoCeleste.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\C#\\Nasa\\Nasa\\Models\\CorpoCeleste.cs",
+              "RelativeToolTip": "Nasa\\Models\\CorpoCeleste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:02:06.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
